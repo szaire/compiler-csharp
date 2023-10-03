@@ -1,0 +1,12 @@
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/bin/Debug/net7.0/Common.deps.json
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/bin/Debug/net7.0/Common.dll
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/bin/Debug/net7.0/Common.pdb
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.dll
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/refint/Common.dll
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/Common.pdb
+/home/samueo/Documents/UNIFOR/CC6/ASPECTOS TEORICOS/ATIVIDADE 2/AnalisadorLexico/Common/obj/Debug/net7.0/ref/Common.dll

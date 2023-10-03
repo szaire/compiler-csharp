@@ -1,0 +1,22 @@
+int main() {
+    int var1 = 54;
+    int var2 = 123;
+    if (var2 >= var1)
+    {
+        int result_total = var1 + var2;
+    }
+    else
+    {
+        var1++;
+    }
+    
+    return result_total;
+}
+
+void func(int a, int b)
+{
+    while (a != b)
+    {
+        a--;
+    }
+}
